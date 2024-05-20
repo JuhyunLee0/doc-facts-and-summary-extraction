@@ -1,0 +1,121 @@
+### Factual Information
+- No factual information provided.
+- Company Name: Meta Platforms, Inc.
+- Stock Market Listing: Nasdaq
+- Stock Symbol: META
+- Date of Report: April 24, 2024
+- Quarter Reported: First quarter of 2024
+- Quarter Ending Date: March 31, 2024
+- CEO: Mark Zuckerberg
+- Product Mentioned: Meta AI with Llama 3
+- Revenue for the three months ended March 31, 2024: $36,455 million
+- Revenue for the three months ended March 31, 2023: $28,645 million
+- Revenue percentage change: 27%
+- Costs and expenses for the three months ended March 31, 2024: $22,637 million
+- Costs and expenses for the three months ended March 31, 2023: $21,418 million
+- Costs and expenses percentage change: 6%
+- Income from operations for the three months ended March 31, 2024: $13,818 million
+- Income from operations for the three months ended March 31, 2023: $7,227 million
+- Income from operations percentage change: 91%
+- Operating margin for the three months ended March 31, 2024: 38%
+- Operating margin for the three months ended March 31, 2023: 25%
+- Provision for income taxes for the three months ended March 31, 2024: $1,814 million
+- Provision for income taxes for the three months ended March 31, 2023: $1,598 million
+- Provision for income taxes percentage change: 14%
+- Effective tax rate for the three months ended March 31, 2024: 13%
+- Effective tax rate for the three months ended March 31, 2023: 22%
+- Net income for the three months ended March 31, 2024: $12,369 million
+- Net income for the three months ended March 31, 2023: $5,709 million
+- Net income percentage change: 117%
+- Diluted earnings per share (EPS) for the three months ended March 31, 2024: $4.71
+- Diluted earnings per share (EPS) for the three months ended March 31, 2023: $2.20
+- Diluted EPS percentage change: 114%
+- Family daily active people (DAP) was 3.24 billion on average for March 2024, which is a 7% increase year-over-year.
+- Ad impressions delivered across the Family of Apps increased by 20% year-over-year.
+- The average price per ad increased by 6% year-over-year.
+- Total revenue was $36.46 billion, and revenue on a constant currency basis was $36.35 billion, both showing a 27% increase year-over-year.
+- Total costs and expenses were $22.64 billion, marking a 6% increase year-over-year.
+- Capital expenditures, including principal payments on finance leases, amounted to $6.72 billion.
+- The capital return program included share repurchases of $14.64 billion of Class A common stock and dividend payments of $1.27 billion.
+- Cash, cash equivalents, and marketable securities totaled $58.12 billion as of March 31, 2024.
+- Free cash flow was reported at $12.53 billion.
+- The headcount was 69,329 as of March 31, 2024, which is a decrease of 10% year-over-year.
+- The expected total revenue for the second quarter of 2024 is in the range of $36.5-39 billion.
+- Foreign currency is anticipated to be a 1% headwind to year-over-year total revenue growth, based on current exchange rates.
+- Full-year 2024 total expenses are expected to be in the range of $96-99 billion, which is an update from the prior outlook of $94-99 billion.
+- The increase in the expense outlook is due to higher infrastructure and legal costs.
+- Operating losses for Reality Labs are expected to increase significantly year-over-year.
+- Full-year 2024 capital expenditures are anticipated to be in the range of $35-40 billion, up from the prior range of $30-37 billion.
+- The increase in capital expenditures is to support the company's artificial intelligence (AI) roadmap.
+- Capital expenditures are expected to continue to increase in the year beyond 2024 due to investments in AI research and product development.
+- The expected full-year 2024 tax rate is in the mid-teens, assuming no changes to the tax landscape.
+- The company is monitoring an active regulatory landscape, including legal and regulatory headwinds in the EU and the U.S.
+- The first quarter was a good start to the year, with strong momentum within the Family of Apps.
+- Progress is being made on long-term AI and Reality Labs initiatives.
+- Meta will host a conference call to discuss the results at 2:00 p.m. PT / 5:00 p.m. ET on the day of the announcement.
+- The live webcast of Meta's earnings conference call can be accessed at investor.fb.com.
+- The earnings press release, financial tables, and slide presentation will be available on the same website.
+- Meta uses investor.fb.com, about.fb.com/news/, Mark Zuckerberg's Facebook Page, Instagram account, and Threads profile for disclosing material non-public information.
+- A replay of the conference call and transcripts of calls with equity research analysts will be posted to the investor.fb.com website.
+- Business Name: Meta
+- Meta's technologies help people connect, find communities, and grow businesses.
+- Facebook was launched by Meta in 2004.
+- Meta also owns apps like Messenger, Instagram, and WhatsApp.
+- Meta is focusing on immersive experiences like augmented and virtual reality.
+- Investor Contact: Kenneth Dorell, investor@meta.com, investor.fb.com
+- Press Contact: Ryan Moore, press@meta.com, about.fb.com/news/
+- The press release contains forward-looking statements about the company's future business plans and expectations.
+- These statements are predictions and may differ from actual results due to various factors.
+- Factors that may affect actual results include:
+-   - Impact of macroeconomic conditions and geopolitical events on business and financial results.
+-   - Ability to retain or increase users and engagement levels.
+-   - Reliance on advertising revenue.
+-   - Dependency on data signals, mobile operating systems, networks, and standards not controlled by the company.
+-   - Changes to third-party policies that impact advertising practices.
+-   - Risks associated with new products, changes to existing products, and new business initiatives, including artificial intelligence and metaverse efforts.
+-   - Focus on community growth, engagement, and user experience over short-term financial results.
+-   - Maintaining and enhancing brand and reputation.
+-   - Ongoing privacy, safety, security, and content review efforts.
+-   - Competition in the market.
+-   - Government actions that could restrict access to products or impair the ability to sell advertising in certain countries.
+-   - Litigation and government inquiries.
+-   - Privacy, legislative, and regulatory concerns or developments.
+-   - Risks associated with acquisitions.
+-   - Security breaches.
+-   - Managing scale and geographically-dispersed operations.
+-   - Market conditions or other factors affecting the payment of dividends.
+- Risks and uncertainties are detailed under "Risk Factors" in the Annual Report on Form 10-K filed with the SEC on February 2, 2024.
+- The press release is dated April 24, 2024.
+- The company does not undertake to update forward-looking statements with new information or future events.
+- Limitations in the measurement of certain community metrics are discussed in the company's most recent quarterly or annual report filed with the SEC.
+- Non-GAAP financial measures used: revenue excluding foreign exchange effect, advertising revenue excluding foreign exchange effect, and free cash flow.
+- Non-GAAP measures are not to be considered in isolation or as a substitute for GAAP financial information.
+- Non-GAAP measures are adjusted for foreign exchange effect on revenue and purchases of property and equipment; principal payments on finance leases.
+- Revenue for the three months ended March 31, 2024, was translated using the prior year's monthly exchange rates.
+- Free cash flow calculation excludes purchases of property and equipment, net of proceeds, and principal payments on finance leases.
+- Meta Platforms, Inc. provided a reconciliation of GAAP to non-GAAP measures in the press release.
+- Condensed consolidated statements of income for the three months ended March 31, 2024, and 2023, show revenue of $36,455 million and $28,645 million, respectively.
+- Net income reported for the three months ended March 31, 2024, was $12,369 million, compared to $5,709 million for the same period in 2023.
+- Basic earnings per share for the three months ended March 31, 2024, were $4.86, and diluted earnings per share were $4.71.
+- Condensed consolidated balance sheets as of March 31, 2024, show total assets of $222,844 million and total liabilities and stockholders' equity of the same amount.
+- Cash and cash equivalents as of March 31, 2024, were $32,307 million.
+- Condensed consolidated statements of cash flows for the three months ended March 31, 2024, show net cash provided by operating activities of $19,246 million.
+- Cash flows from investing activities for the same period resulted in a net cash used of $8,734 million.
+- Cash flows from financing activities for the same period resulted in a net cash used of $19,767 million.
+- The net decrease in cash, cash equivalents, and restricted cash for the three months ended March 31, 2024, was $9,543 million.
+- The company reports financial results for two segments: Family of Apps (FoA) and Reality Labs (RL).
+- FoA includes Facebook, Instagram, Messenger, WhatsApp, and other services.
+- RL includes virtual, augmented, and mixed reality-related consumer hardware, software, and content.
+- For the three months ended March 31, 2024, FoA revenue was $36,015 million, and RL revenue was $440 million.
+- For the three months ended March 31, 2023, FoA revenue was $28,306 million, and RL revenue was $339 million.
+- Total revenue for the three months ended March 31, 2024, was $36,455 million.
+- Total revenue for the three months ended March 31, 2023, was $28,645 million.
+- Income from operations for FoA was $17,664 million in 2024 and $11,219 million in 2023.
+- Loss from operations for RL was $(3,846) million in 2024 and $(3,992) million in 2023.
+- Total income from operations was $13,818 million in 2024 and $7,227 million in 2023.
+- GAAP revenue year-over-year change percentage was 27%.
+- Advertising revenue year-over-year change percentage was 27%.
+- Net cash provided by operating activities was $19,246 million in 2024 and $13,998 million in 2023.
+- Purchases of property and equipment, net, were $(6,400) million in 2024 and $(6,823) million in 2023.
+- Principal payments on finance leases were $(315) million in 2024 and $(264) million in 2023.
+- Free cash flow was $12,531 million in 2024 and $6,911 million in 2023.
