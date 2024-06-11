@@ -8,3 +8,8 @@ openai
 python-dotenv
 docx2pdf
 pandas
+langchain
+langchain_community
+unstructured
+markdown
+langchain-text-splitters
